@@ -1,1 +1,1 @@
-i am b.txt from b1
+I am b2
